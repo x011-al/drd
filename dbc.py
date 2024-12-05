@@ -10,7 +10,7 @@ coordinates = [
     (169, 193),  # Koordinat pertama
     (555, 192),  # Koordinat kedua, tambahkan jika lebih dari satu
     (912, 213),  # Koordinat pertama
-    (1230, 194),  # Koordinat kedua, tambahkan jika lebih dari satu
+    (1230, 194),  # Koordinat kedua
 ]  
 
 # Fungsi untuk melakukan double klik pada koordinat
