@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ukuran swap dalam GB
-SWAP_SIZE_GB=2
+SWAP_SIZE_GB=1
 
 # Nama file swap
 SWAPFILE=/swapfile
