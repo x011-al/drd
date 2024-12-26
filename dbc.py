@@ -7,14 +7,16 @@ pyautogui.FAILSAFE = False
 
 # Daftar koordinat untuk klik
 coordinates = [
-    (234, 221), 
-    (708, 240), 
-    (949, 208), 
-    (1260, 203), 
-    (169, 453), 
-    (531, 441), 
-    (915, 448), 
-    (1274, 476), 
+    (156, 189), 
+    (555, 188), 
+    (930, 193), 
+    (1270, 191), 
+    (143, 388), 
+    (537, 389), 
+    (973, 388), 
+    (1328, 409), 
+    (345, 621), 
+    (927, 614), 
 ]  
 
 # Fungsi untuk melakukan double klik pada koordinat
