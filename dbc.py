@@ -19,7 +19,6 @@ coordinates = [
     (1204, 401), 
     (175, 584), 
     (1053, 611), 
-    (691, 604), 
 ]  
 
 # Fungsi untuk melakukan double klik pada koordinat
