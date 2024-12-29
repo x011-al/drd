@@ -2,7 +2,7 @@ import pyautogui
 import time
 from datetime import datetime, timedelta
 
-# Setel fail-safe menjadi False
+# Setel fail-safe menjadi 
 pyautogui.FAILSAFE = False
 
 # Daftar koordinat untuk klik
